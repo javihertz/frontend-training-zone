@@ -2,7 +2,10 @@
   "name": "@frontend-training-zone/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "nx": "nx",
+    "start": "nx serve frontend-training-zone"
+  },
   "private": true,
   "dependencies": {
     "react": "18.3.1",
