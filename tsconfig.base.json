@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@frontend-training-zone/challenges/find-ditto": [
+        "libs/challenges/find-ditto/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
