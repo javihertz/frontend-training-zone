@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "nx": "nx",
-    "start": "nx serve frontend-training-zone"
+    "start": "nx serve frontend-training-zone",
+    "test:challenges:find-ditto": "nx test challenges-find-ditto --configuration=watch"
   },
   "private": true,
   "dependencies": {
