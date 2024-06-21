@@ -229,7 +229,6 @@ A utility library contains low-level utilities used by many libraries and applic
 
   </details>
 
-
 **Naming conventions:**
 
 - Client side environment variables (used in build time): `NX_VAR_NAME`
