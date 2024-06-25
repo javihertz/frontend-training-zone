@@ -6,6 +6,7 @@
     "nx": "nx",
     "start": "nx serve frontend-training-zone",
     "start:pokedex": "nx serve pokedex",
+    "start:user-posts": "nx serve user-posts",
     "test:challenges:find-ditto": "nx test challenges-find-ditto --configuration=watch"
   },
   "private": true,
